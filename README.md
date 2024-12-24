@@ -1,1 +1,2 @@
-# Exogenous-Nutrients
+# The Strategy of Drug Design Based on Exogenous Nutrients to Mitigate Antimicrobial Resistance
+This repository includes genome-scale metabolic network (GEM) models for seven microorganisms which are used to select modeling methods and for three pathogenic bacteria which are used to validate exogenous nutrient strategies in combination with existing antimicrobial agents. Experimental data are provided to evaluate the performance of these GEMs. The analysis code can be found in (`code.ipynb`).
